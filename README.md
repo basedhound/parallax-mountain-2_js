@@ -1,8 +1,8 @@
 <div align="center">
-    <a href="https://parallax-1-fv.netlify.app"" target="_blank">
+    <a href="https://parallax-2-fv.netlify.app"" target="_blank">
       <img src="design/preview.webp" alt="Project Banner">
     </a>
-  <h3 align="center">Parallax - Mountain #1</h3>
+  <h3 align="center">Parallax - Mountain #2</h3>
 </div>
 
 
