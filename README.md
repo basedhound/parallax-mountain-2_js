@@ -14,9 +14,9 @@
 
 ##  <br /> <a name="introduction">✨ Introduction</a>
 
-[EN] Parallax landing page design featuring a modern and minimalist aesthetic, crafted using HTML, CSS, and JavaScript. This project is a test to build a parallax effect while scrolling the page.
+**[EN]** Parallax landing page design featuring a modern and minimalist aesthetic, crafted using HTML, CSS, and JavaScript. This project is a test to build a parallax effect while scrolling the page.
 
-[FR] Conception de page d'accueil Parallax avec un design moderne et minimaliste, réalisée en HTML, CSS et JavaScript. Ce projet est un test pour créer un effet de parallaxe lors du défilement de la page.
+**[FR]** Conception de page d'accueil Parallax avec un design moderne et minimaliste, réalisée en HTML, CSS et JavaScript. Ce projet est un test pour créer un effet de parallaxe lors du défilement de la page.
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
